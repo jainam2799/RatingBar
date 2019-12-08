@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RatingBar</string>
+    <color name="Red">#ffff00</color>
+</resources>
